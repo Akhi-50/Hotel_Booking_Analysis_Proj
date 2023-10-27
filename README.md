@@ -1,5 +1,6 @@
 # Hotel_Booking_Analysis_Proj
 Statement:- Hotel Booking analysis Project deals about understanding the booking patterns, guest preferences, and factors influencing cancellations to enhance decision-making and improve the overall guest experience.
+
 Objectives:
 1.Analyze Booking Patterns: To identify and comprehend the most popular booking sources, channels, lead times, and hotel kinds among guests.
 The purpose of this analysis is to provide insights on the most prevalent ways guests book their stays, as well as the timing of their bookings.
