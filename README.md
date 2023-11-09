@@ -46,6 +46,8 @@ After data cleaning, data transformation was carried out to enhance the dataset 
 - Standardizing data units and formats for consistency.
 - Creating a clean and structured dataset suitable for analytical purposes.
 
+Please find the detailed presentation report in below link:
+https://docs.google.com/presentation/d/1ntqQHerPt2LTqOLC8ElfCKsNrVIrR6Pz/edit?usp=sharing&ouid=118362302238704077949&rtpof=true&sd=true
 
 
 
